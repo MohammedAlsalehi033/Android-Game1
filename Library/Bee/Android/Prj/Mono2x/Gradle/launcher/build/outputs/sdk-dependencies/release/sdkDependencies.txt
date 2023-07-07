@@ -1,0 +1,58 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "UnityAds"
+  }
+  digests {
+    sha256: "\n\311sV\2426n\253\331\204+\274\021S\342\n\"\271H\344\236\336\033*8>\220\323T0\036\366"
+  }
+}
+library {
+  maven_library {
+    artifactId: "UnityAdsAndroidPlugin"
+  }
+  digests {
+    sha256: "i\363\366\217\371\355R\t\aX9V\333v\326E\242\005\352\252e\335\374\306yl>8I\250a\335"
+  }
+}
+library {
+  maven_library {
+    artifactId: "common"
+  }
+  digests {
+    sha256: "i\006\370Ya1@5 DuV\"\334\3655\214\367\262U\252\360h\313\021\207\260\265!G\350\243"
+  }
+}
+library {
+  maven_library {
+    artifactId: "billing-4.0.0"
+  }
+  digests {
+    sha256: "fN\353\245Q\371\253\2108\3614URY\v\375q\261\350\367t/m\324\vS\260\336a\367\243\304"
+  }
+}
+library {
+  digests {
+    sha256: "\346\342ypX\365\242\332\201\202y/\336\333\3667\230z!\266\326\334\275\036\343\3571UEh\302j"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+library_dependencies {
+  library_index: 2
+}
+library_dependencies {
+  library_index: 3
+}
+library_dependencies {
+  library_index: 4
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 4
+}

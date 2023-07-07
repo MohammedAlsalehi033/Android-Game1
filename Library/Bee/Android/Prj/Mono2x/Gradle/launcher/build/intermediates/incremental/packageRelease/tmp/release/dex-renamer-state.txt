@@ -1,0 +1,4 @@
+#Tue Feb 14 18:09:53 PKT 2023
+base.0=D\:\\Users\\Mohammed Alsalehi\\mobile game\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-71:12
+MERGED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:2:1-35:12
+MERGED from [:UnityAdsAndroidPlugin:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\667ab3fdbf272abafc4d987f08307b17\UnityAdsAndroidPlugin\AndroidManifest.xml:2:1-11:12
+MERGED from [:common:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\c311749ec192028f6df6410475919636\common\AndroidManifest.xml:2:1-12:12
+MERGED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:70-109
+		INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:110-156
+	android:versionCode
+		INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:157-197
+supports-screens
+ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-69:19
+MERGED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-69:19
+MERGED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:12:5-33:19
+MERGED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:12:5-33:19
+MERGED from [:common:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\c311749ec192028f6df6410475919636\common\AndroidManifest.xml:9:5-10:19
+MERGED from [:common:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\c311749ec192028f6df6410475919636\common\AndroidManifest.xml:9:5-10:19
+MERGED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:12:5-22:19
+MERGED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:12:5-22:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:18-50
+	android:label
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+	android:icon
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+uses-sdk
+INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:5:5-7:41
+MERGED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:5:5-7:41
+MERGED from [:UnityAdsAndroidPlugin:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\667ab3fdbf272abafc4d987f08307b17\UnityAdsAndroidPlugin\AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAdsAndroidPlugin:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\667ab3fdbf272abafc4d987f08307b17\UnityAdsAndroidPlugin\AndroidManifest.xml:7:5-9:41
+MERGED from [:common:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\c311749ec192028f6df6410475919636\common\AndroidManifest.xml:7:5-43
+MERGED from [:common:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\c311749ec192028f6df6410475919636\common\AndroidManifest.xml:7:5-43
+MERGED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+MERGED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:10:5-67
+MERGED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-79
+MERGED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:9:5-79
+MERGED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:22-76
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:9-52:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-57
+	android:launchMode
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-48
+	android:exported
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-194
+	android:theme
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-54
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:13-48:40
+	android:value
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:13-51:40
+	android:value
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:9-56:33
+	android:value
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:13-30
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:9-59:36
+	android:value
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:9-62:36
+	android:value
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:9-65:37
+	android:value
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:13-34
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:9-68:50
+	android:value
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:13-47
+	android:name
+		ADDED from [:unityLibrary] D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-40
+activity#com.unity3d.services.ads.adunit.AdUnitActivity
+ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:13:9-17:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:16:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:15:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:17:13-71
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:14:13-74
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentActivity
+ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:18:9-22:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:21:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:20:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:22:13-83
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:19:13-85
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:23:9-27:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:26:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:25:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:27:13-83
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:24:13-93
+activity#com.unity3d.services.ads.adunit.AdUnitSoftwareActivity
+ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:28:9-32:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:30:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:32:13-71
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b1118aa3f79366e0497e6617d8a6b855\UnityAds\AndroidManifest.xml:29:13-82
+uses-permission#com.android.vending.BILLING
+ADDED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:10:22-64
+meta-data#com.google.android.play.billingclient.version
+ADDED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:17:9-21:75
+	android:exported
+		ADDED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:20:13-37
+	android:configChanges
+		ADDED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [:billing-4.0.0:] C:\Users\Zia Laptop\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:18:13-78

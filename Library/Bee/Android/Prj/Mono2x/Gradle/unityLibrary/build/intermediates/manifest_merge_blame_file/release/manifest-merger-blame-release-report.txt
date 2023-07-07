@@ -1,0 +1,128 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="33" />
+10-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+11
+12    <uses-feature android:glEsVersion="0x00030000" />
+12-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:3-52
+12-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:17-49
+13    <uses-feature
+13-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:3-91
+14        android:name="android.hardware.vulkan.version"
+14-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:17-63
+15        android:required="false" />
+15-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:64-88
+16
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:3-65
+17-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:20-62
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:3-77
+18-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:20-74
+19
+20    <uses-feature
+20-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:3-88
+21        android:name="android.hardware.touchscreen"
+21-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:17-60
+22        android:required="false" />
+22-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:61-85
+23    <uses-feature
+23-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:3-99
+24        android:name="android.hardware.touchscreen.multitouch"
+24-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:17-71
+25        android:required="false" />
+25-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:72-96
+26    <uses-feature
+26-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:3-108
+27        android:name="android.hardware.touchscreen.multitouch.distinct"
+27-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:17-80
+28        android:required="false" />
+28-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:81-105
+29
+30    <application android:extractNativeLibs="true" >
+30-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-17:17
+30-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:16-48
+31        <activity
+31-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:5-11:16
+32            android:name="com.unity3d.player.UnityPlayerActivity"
+32-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:15-68
+33            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+33-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:188-369
+34            android:exported="true"
+34-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:441-464
+35            android:hardwareAccelerated="false"
+35-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:405-440
+36            android:launchMode="singleTask"
+36-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:156-187
+37            android:resizeableActivity="false"
+37-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:370-404
+38            android:screenOrientation="reverseLandscape"
+38-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:111-155
+39            android:theme="@style/UnityThemeSelector" >
+39-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:69-110
+40            <intent-filter>
+40-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:7-8:23
+41                <action android:name="android.intent.action.MAIN" />
+41-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:9-61
+41-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-58
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:9-69
+43-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:19-66
+44            </intent-filter>
+45
+46            <meta-data
+46-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:7-82
+47                android:name="unityplayer.UnityActivity"
+47-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:18-58
+48                android:value="true" />
+48-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:59-79
+49            <meta-data
+49-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:7-78
+50                android:name="android.notch_support"
+50-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:18-54
+51                android:value="true" />
+51-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:55-75
+52        </activity>
+53
+54        <meta-data
+54-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-69
+55            android:name="unity.splash-mode"
+55-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-48
+56            android:value="0" />
+56-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:49-66
+57        <meta-data
+57-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-74
+58            android:name="unity.splash-enable"
+58-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-50
+59            android:value="True" />
+59-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:51-71
+60        <meta-data
+60-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-78
+61            android:name="unity.launch-fullscreen"
+61-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-54
+62            android:value="True" />
+62-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:55-75
+63        <meta-data
+63-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-84
+64            android:name="unity.allow-resizable-window"
+64-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-59
+65            android:value="False" />
+65-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:60-81
+66        <meta-data
+66-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-81
+67            android:name="notch.config"
+67-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-43
+68            android:value="portrait|landscape" />
+68-->D:\Users\Mohammed Alsalehi\mobile game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:44-78
+69    </application>
+70
+71</manifest>
